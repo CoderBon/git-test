@@ -1,3 +1,0 @@
-hello git!
-ihello git!
-66666
